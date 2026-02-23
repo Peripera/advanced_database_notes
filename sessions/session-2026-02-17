@@ -1,0 +1,27 @@
+# Session – 2026-02-17
+
+## Topics covered
+- Queries with constraints
+- What is table
+- JOINS (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, CROSS JOIN, SELF JOIN)
+
+## What I understood
+- A table is a data structure, that containts a primary key and can reference a foreign key. 
+- INNER JOIN is data that is in both tables.
+- LEFT Join just data that is present en left table.
+- full join fuse all the data for both tables that matches a given condition.
+- CROSS JOIN is expected to be use to have all the combination possible with both tables.
+
+
+## What is still confusing
+
+- SELF JOIN I dont undestand its uses very well  
+
+## Questions
+- I have read that right joins is considered a bad practice in jobs, is there any reason for that? 
+
+## Related concepts
+- [Concept name](../concepts/concept-name.md)
+
+## Resources used
+- See `resources/`
