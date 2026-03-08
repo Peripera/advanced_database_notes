@@ -49,3 +49,8 @@ FROM Employee
 
 Se puede combina ambas funciones para sacar el total de una particion 
 
+### windowing 
+When you use order by, the database adds a default windowing clause of:range between unbounded preceding and current row
+
+*include all the rows with a value less than or equal to that of the current row.*
+* rows between unbounded preceding and current row *
