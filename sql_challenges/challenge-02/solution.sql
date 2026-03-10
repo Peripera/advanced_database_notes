@@ -1,5 +1,7 @@
 -- LESSON 6: MULTI-TABLES WITH JOINS 
 
+-- Review update
+
 -- First task 
 
 SELECT domestic_sales, international_sales, Title
