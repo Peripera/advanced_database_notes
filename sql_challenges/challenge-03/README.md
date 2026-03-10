@@ -26,4 +26,4 @@ Tasks
  * Number of different shapes
  * The standard deviation (stddev) of the unique weights
 - Complete the following query to return the total weight for each shape stored in the bricks table:
-- Complete the following query to find the shapes which have a total weight less than four.
+- Complete the following query to find the shapes which have a total weight less than four;
