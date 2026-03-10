@@ -13,8 +13,8 @@
 
 ## Other functions Oracle supported
 
-- Unique: Find the unique values synonimun of distincs
-- All: The function to process every row with the keyword all
+- Unique: Find the unique values synonimun of distincs.
+- All: The function to process every row with the keyword all.
 
 
 - Rollup: Rollup generates the subtotals for the columns within it, working from right to left. 
