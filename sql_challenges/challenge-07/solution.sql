@@ -23,6 +23,7 @@ and stories of such feats are viewed as tall tales. The implication that rural c
 
 /*MY_QUESTION = "Why is cow tipping considered unlikely to happen in real life?"
 */
+
 SELECT
     chunk_id,
     SUBSTR(chunk_text, 1, 100) AS preview,
@@ -59,5 +60,5 @@ ID 6: The belief that certain animals cannot rise if pushed over has historical 
 
 ID 19: In the Little Willies song "Lou Reed" from their 2006 self-titled debut album, Norah Jones sings abo
 
-id1: Cow tipping is the purported activity of sneaking up on any unsuspecting or sleeping upright cow and
+id1: Cow tipping is the purported activity of sneaking up on any unsuspecting or sleeping upright cow and nya
 */

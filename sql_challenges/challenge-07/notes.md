@@ -15,6 +15,6 @@ The chunks selected aproached to explain that cow tipping is considered an urban
 
 #### "What is the philosophy?"
 
-We can see all responses are not related and have nothing to do with the question aboout philosophy.
+We can see all responses are not related and have nothing to do with the question about philosophy.
 
 ![alt text](image.png)
